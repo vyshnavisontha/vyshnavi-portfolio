@@ -1,13 +1,23 @@
-# Vyshnavi S — Portfolio
+# Vyshnavi Sontha — Portfolio
 
-## Run locally
-Open this folder in VS Code and open `index.html` with Live Server.
+Personal portfolio website showcasing my skills, projects, and experience.
 
-## Before deploying
-1. Put your resume at `assets/Vyshnavi_Resume.pdf`.
-2. Replace `your-email@example.com`.
-3. Replace the GitHub and LinkedIn links.
-4. Replace project `#` links with your real repository/demo links.
+## Technologies
 
-## Deploy to Netlify
-Drag the whole `vyshnavi-portfolio` folder into Netlify's deploy area, or connect the folder/repository through Netlify.
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- Git & GitHub
+
+## Projects
+
+- MediFlow
+- Snake Game
+- Password Generator
+- Smart Vehicle Rental System
+
+## Portfolio
+
+Built as a responsive personal portfolio website.
